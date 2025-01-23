@@ -1,2 +1,6 @@
-# Data-Science-Projects
+# **Data Science Projects 🔬| 🕵️‍️| 📊 | 🚀**
 Portfolio of data science projects completed by me for academic, self-learning, commercial and hobby purposes.
+
+| Project | Description | Stack &nbsp; &nbsp; | Skills &nbsp; &nbsp;|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| [Income Level Classification](https://github.com/vonexel/Data-Science-Projects/tree/master/Income%20Level%20Classification) | **Binary classification of individuals by income level**: (*<=50K / >50K*) based on individual features. *EDA* with *NaN's filling* using **CatBoost** and hyperparameter optimization (**Optuna**). Training of *logistic regression* and *SVM* models. | `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Missingno` `Optuna` `CatBoost` |  `EDA` `Preprocessing` `Modeling` |
